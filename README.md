@@ -9,7 +9,7 @@
 #4. Work-Flow
 
 #6. 프로젝트 시연 <br>
-<video controls autoplay>
+<video controls mute autoplay loop>
   <source src="[https://storage.googleapis.com/web-dev-assets/video-and-source-tags/chrome.webm](https://github.com/AumKyungSub/backtest/assets/97381242/3b42963e-2045-47c4-90a6-208a3724ca52)" type="video/webm">
   <p>Your browser cannot play the provided video file.</p>
 </video>
