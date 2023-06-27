@@ -9,8 +9,7 @@
 #4. Work-Flow
 
 #6. 프로젝트 시연 <br>
-
-            <video muted autoplay loop>
-                <source src="[./media/jessicaonlychild.mp4](https://github.com/AumKyungSub/backtest/assets/97381242/3b42963e-2045-47c4-90a6-208a3724ca52)https://github.com/AumKyungSub/backtest/assets/97381242/3b42963e-2045-47c4-90a6-208a3724ca52" type="video/mp4">
-            </video>
+<video muted autoplay loop>
+            <source src="[./media/jessicaonlychild.mp4](https://github.com/AumKyungSub/backtest/assets/97381242/3b42963e-2045-47c4-90a6-208a3724ca52)https://github.com/AumKyungSub/backtest/assets/97381242/3b42963e-2045-47c4-90a6-208a3724ca52" type="video/mp4">
+</video>
 
